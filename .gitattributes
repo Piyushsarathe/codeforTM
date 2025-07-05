@@ -1,0 +1,3 @@
+# Auto normalize line endings for cross-platform
+* text=auto
+text=auto eol=lf
